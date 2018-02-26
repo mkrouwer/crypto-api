@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+crypto-api.iml
+Would skip repository crypto-api/
+target/
